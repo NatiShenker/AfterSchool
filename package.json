@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://NatiShenker.github.io/Tichnun",
+  "homepage": "https://NatiShenker.github.io/AfterSchool",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
