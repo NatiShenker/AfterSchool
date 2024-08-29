@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tichnun/static/css/main.6fcff9cc.css",
+    "main.js": "/Tichnun/static/js/main.efee080b.js",
+    "static/js/453.ed22d25c.chunk.js": "/Tichnun/static/js/453.ed22d25c.chunk.js",
+    "index.html": "/Tichnun/index.html",
+    "main.6fcff9cc.css.map": "/Tichnun/static/css/main.6fcff9cc.css.map",
+    "main.efee080b.js.map": "/Tichnun/static/js/main.efee080b.js.map",
+    "453.ed22d25c.chunk.js.map": "/Tichnun/static/js/453.ed22d25c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fcff9cc.css",
+    "static/js/main.efee080b.js"
+  ]
+}
